@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="colorPrimary">#720d5d</color>
-  <color name="colorPrimaryDark">#430033</color>
+
+  <!-- Lilac Theme Colors -->
+  <color name="colorPrimary">#EC6ED2</color>
+  <color name="colorPrimaryDark">#B32A91</color>
   <color name="colorAccent">#e30425</color>
   <color name="primaryText">#000000</color>
   <color name="icon">#5d1049</color>
@@ -10,13 +12,28 @@
   <color name="buttonText">#FFFFFF</color>
 
   <!-- Mint Theme Colors -->
-  <color name="mintColorPrimary">#76be2f</color>
-  <color name="mintColorPrimaryDark">#289b23</color>
-  <color name="mintColorAccent">#f9a825</color>
+  <color name="mintColorPrimary">#E5FFD4</color>
+  <color name="mintColorPrimaryDark">#88CF87</color>
+  <color name="mintColorAccent">#DF8501</color>
   <color name="mintPrimaryText">#424242</color>
-  <color name="mintIcon">#ff554f</color>
+  <color name="mintIcon">#FF1D16</color>
   <color name="mintButtonNormal">#76be2f</color>
   <color name="mintButtonHighlight">#81c784</color>
   <color name="mintButtonText">#FFFFFF</color>
+
+  <!-- Lilac Theme Dark Variants -->
+  <color name="dark_colorPrimary">#720d5d</color>
+  <color name="dark_colorPrimaryDark">#430033</color>
+  <color name="dark_colorAccent">#E45067</color>
+  <color name="dark_primaryText">#FFFFFF</color>
+  <color name="dark_icon">#D59FCA</color>
+  <color name="dark_buttonNormal">#F1657B</color>
+  <color name="dark_buttonHighlight">#ff554f</color>
+  <color name="dark_buttonText">#FFFFFF</color>
+
+
+  <!-- Mint Theme Dark Variants -->
+
+  <!-- implement -->
 
 </resources>

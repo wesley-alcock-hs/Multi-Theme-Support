@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.Lilac" parent="Base.Theme.App">
+        <item name="colorPrimary">@color/dark_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/dark_colorPrimaryDark</item>
+        <item name="colorAccent">@color/dark_colorAccent</item>
+        <item name="primaryTextColor">@color/dark_primaryText</item>
+        <item name="buttonNormalColor">@color/dark_buttonNormal</item>
+        <item name="buttonHighlightColor">@color/dark_buttonHighlight</item>
+        <item name="buttonTextColor">@color/dark_buttonText</item>
+        <item name="iconColor">@color/dark_icon</item>
+    </style>
+
+</resources>
